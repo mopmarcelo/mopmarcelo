@@ -5,7 +5,7 @@
 	<p>var dev = { <br/>
     	&nbsp;&nbsp;&nbsp;&nbsp;"name": "Marcelo Pereira", <br/>
     	&nbsp;&nbsp;&nbsp;&nbsp;"academic education": "UFMS - Universidade Federal de Mato Grosso do Sul", <br/>
-    	&nbsp;&nbsp;&nbsp;&nbsp;"occupation": "development analyst at [@Ituran](https://www.ituran.com.br/)", <br/>
+    	&nbsp;&nbsp;&nbsp;&nbsp;"occupation": "development analyst at <a href='https://www.ituran.com.br/'>Ituran</a>", <br/>
     	&nbsp;&nbsp;&nbsp;&nbsp;"profiles": { <br/>
 	    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"linkedIn": "www.linkedin.com/in/mopmarcelo", <br/>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"twitter": "https://twitter.com/mopmarcelo"<br/>
