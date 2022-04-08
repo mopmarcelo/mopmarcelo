@@ -1,15 +1,18 @@
-## Hello, I'm Marcelo
-### Sorry... this is a forgotten place that sometimes gets attention...
+<h1>Hello, I'm Marcelo</h1>
+<h3>Sorry... this is a forgotten place that sometimes gets attention...</h3>
 
-var dev = {
-    "name": "Marcelo Pereira",
-	  "academic education": "UFMS - Universidade Federal de Mato Grosso do Sul",
-	  "occupation": "development analyst",
-    "profiles": {
-        "linkedIn": "www.linkedin.com/in/mopmarcelo",
-        "twitter": "https://twitter.com/mopmarcelo"
-	   }
-};
+<section>
+	<p>var dev = { <br/>
+    	&nbsp;&nbsp;&nbsp;&nbsp;"name": "Marcelo Pereira", <br/>
+    	&nbsp;&nbsp;&nbsp;&nbsp;"academic education": "UFMS - Universidade Federal de Mato Grosso do Sul", <br/>
+    	&nbsp;&nbsp;&nbsp;&nbsp;"occupation": "development analyst", <br/>
+    	&nbsp;&nbsp;&nbsp;&nbsp;"profiles": { <br/>
+	    	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"linkedIn": "www.linkedin.com/in/mopmarcelo", <br/>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"twitter": "https://twitter.com/mopmarcelo"<br/>
+     	&nbsp;&nbsp;&nbsp;&nbsp;}<br/>
+	};
+	</p>
+</section>
 <!--
 **mopmarcelo/mopmarcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
